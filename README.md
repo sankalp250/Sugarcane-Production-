@@ -33,7 +33,8 @@ This notebook analyzes sugarcane production data by:
    cd sugarcane-production-analysis
 2.(Optional) Create a virtual environment:
 python -m venv env
-source env/bin/activate  # On Windows: env\Scripts\activate
+source env/bin/activate  
+# On Windows: env\Scripts\activate
 
 ▶️ Usage
 jupyter notebook sugarcane_production.ipynb
