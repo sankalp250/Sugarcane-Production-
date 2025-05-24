@@ -43,7 +43,8 @@ jupyter notebook sugarcane_production.ipynb
 3.Install dependencies:
 pip install -r requirements.txt
 
-📁 Project Structure
+## 📁 Project Structure
+
 sugarcane-production-analysis/
 │
 ├── assets/
