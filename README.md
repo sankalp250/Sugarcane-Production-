@@ -43,19 +43,6 @@ jupyter notebook sugarcane_production.ipynb
 3.Install dependencies:
 pip install -r requirements.txt
 
-## 📁 Project Structure
-
-sugarcane-production-analysis/
-│
-├── assets/
-│   ├── sugarcane-banner.png       # Header or cover image
-│   ├── output-sample.png          # Sample chart or visualization
-│
-├── sugarcane_production.ipynb     # Jupyter Notebook for analysis
-├── List of Countries by Sugarcane Production.csv
-├── requirements.txt               # Python dependencies
-└── README.md
-
 📌 Sample Results
 Top Producers: Brazil, India, China
 
