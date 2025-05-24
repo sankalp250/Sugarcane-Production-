@@ -13,7 +13,6 @@ A data analysis project exploring global sugarcane production by country. This p
 - [Overview](#-overview)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Project Structure](#-project-structure)
 - [Sample Results](#-sample-results)
 
 
