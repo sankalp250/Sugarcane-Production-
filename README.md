@@ -15,8 +15,7 @@ A data analysis project exploring global sugarcane production by country. This p
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
 - [Sample Results](#-sample-results)
-- [License](#-license)
-- [Acknowledgements](#-acknowledgements)
+
 
 ## 📖 Overview
 
@@ -36,10 +35,14 @@ This notebook analyzes sugarcane production data by:
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
 
+▶️ Usage
+jupyter notebook sugarcane_production.ipynb
+
+
 3.Install dependencies:
 pip install -r requirements.txt
 
-Project Structure 
+📁 Project Structure
 sugarcane-production-analysis/
 │
 ├── assets/
@@ -51,7 +54,7 @@ sugarcane-production-analysis/
 ├── requirements.txt               # Python dependencies
 └── README.md
 
-Sample Results
+📌 Sample Results
 Top Producers: Brazil, India, China
 
 Insights: Latin America and Asia dominate global sugarcane output.
